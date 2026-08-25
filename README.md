@@ -38,5 +38,6 @@ I currently support Bitflow in preparing its platforms, processes, and technical
 
 ---
 
-> Security is not only about finding vulnerabilities.  
-> It is about building systems that remain reliable, recoverable, observable, and maintainable when things go wrong.
+<p align="center">
+  <img src="signature.png" alt="Security signature">
+</p>
