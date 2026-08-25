@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=333333&center=true&width=300&lines=Bitflow" alt="Bitflow">
-</p>
+<h1 align="center">
+  <span style="font-size: 36px; font-weight: 300; background: linear-gradient(135deg, #667eea 0%, #00d4ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">About Me</span>
+</h1>
 
 ---
-
-## About Me
 
 I work on secure software delivery, architecture, and operations for custom business systems, with a focus on Laravel application security, API security, observability, and operational resilience.
 
