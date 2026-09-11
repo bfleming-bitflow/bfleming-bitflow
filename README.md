@@ -1,6 +1,4 @@
-<h1 align="center">
-  <span style="font-size: 36px; font-weight: 300; background: linear-gradient(135deg, #667eea 0%, #00d4ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">About Me</span>
-</h1>
+## About
 
 ---
 
@@ -22,7 +20,7 @@ I currently support Bitflow in preparing its platforms, processes, and technical
 
 **Governance & Access**
 - Access Control · Secrets Management
-- Data Protection · Privacy Readiness
+- Data Protection
 
 ---
 
@@ -32,9 +30,8 @@ I currently support Bitflow in preparing its platforms, processes, and technical
 |---|---|
 | CIS Controls | v8 — Implementation Group 1 |
 | NIST CSF | 2.0 |
-| OWASP ASVS | Latest |
+| OWASP ASVS | 5.0 |
 | OWASP API Security | Top 10 |
-| OWASP MASVS | — Learning Path |
 
 ---
 
