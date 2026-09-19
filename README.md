@@ -36,5 +36,6 @@ I currently support Bitflow in preparing its platforms, processes, and technical
 ---
 
 <p align="center">
-  <img src="signature.png" alt="Security signature">
+  <img src="signature-dark.png#gh-dark-mode-only" alt="Security signature">
+  <img src="signature-light.png#gh-light-mode-only" alt="Security signature">
 </p>
