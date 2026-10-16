@@ -1,7 +1,5 @@
 ## About
 
----
-
 I work on secure software delivery, architecture, and operations for custom business systems, with a focus on Laravel application security, API security, observability, and operational resilience.
 
 I currently support Bitflow in preparing its platforms, processes, and technical evidence to strengthen data protection, cybersecurity, observability, incident response, and recovery capabilities.
